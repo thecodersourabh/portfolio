@@ -1,0 +1,119 @@
+{
+    "Header.Item1": "मेरे बारे में",
+    "Header.Item2": "अनुभव",
+    "Header.Item3": "प्रोजेक्ट्स",
+    "Header.Item4": "संपर्क करें",
+    "Header.cvBtn": "रिज़्यूमे",
+    "Header.cvName": "",
+    "Banner.Pretitle": "नमस्ते! मेरा नाम है",
+    "Banner.Title": "सौरभ जोशी",
+    "Banner.Description": "मेरे पास <span class='underline'>8 साल का अनुभव</span> है सिस्टम, इंटरफेस, बॉट्स और तकनीकी समाधान विकसित करने का जिससे वेब को बेहतर बनाया जा सके। मैं <span class='underline'>Angular</span> और <span class='underline'>C#</span> में स्वच्छ, पुन: प्रयोज्य और मापनीय कोड लिखने और पुनः सुधारने पर ध्यान केंद्रित करता हूँ, जिसमें अच्छे प्रथाओं और विकास मानकों का पालन करता हूँ।",
+    "Banner.ActionBtn": "संपर्क करें",
+    "AboutMe.Title": "मेरे बारे में",
+    "AboutMe.Paragraphs": [
+        "मेरे पास <span class='underline'>8 साल का अनुभव</span> है जिसमें मैंने कई भूमिकाएँ निभाई हैं: <span class='underline'>सिस्टम एनालिस्ट</span>, <span class='underline'>बैकएंड डेवलपर</span>, <span class='underline'>फ्रंटएंड डेवलपर</span>, और <span class='underline'>टेक्निकल लीडर</span>। मुझे अपनी जानकारी का उपयोग करके नई चीज़ें बनाने में आनंद आता है जो समस्याओं को हल करने में मदद करती हैं।",
+        "मेरी क्षमताएँ सिस्टम में सुधार लागू करने, साइटों को अनुकूलित करने, पैटर्न को मानकीकृत करने, और उन विचारों का सुझाव और कार्यान्वयन करने में भी शामिल हैं जो उस परियोजना में मूल्य जोड़ते हैं जिस पर मैं काम कर रहा हूँ।",
+        "मैं अपने व्यक्तिगत उपयोग के लिए भी चीज़ें प्रोग्राम करता हूँ, चाहे वह शौक के रूप में हो या उपयोगिता के लिए।",
+        "कुछ तकनीकें जिन पर मैंने प्रशिक्षण और काम किया है, उनमें शामिल हैं (लेकिन इनमें सीमित नहीं हैं):"
+    ],
+    "Experience.Title": "अनुभव",
+    "Experience.Jobs": [
+        {
+            "Tab": "S&P Global",
+            "Title": "फुलस्टैक डेवलपर",
+            "Date": "मई 2020",
+            "Description": [
+                "तकनीकी निर्णयों का नेतृत्व",
+                "कंपनी के लिए तकनीकी प्रतिभा की भर्ती",
+                "टेक्नोलॉजी टीम का नेतृत्व",
+                "एक केमिकल एसेट्स डेटा एनालिटिक्स टूल का निर्माण और रखरखाव",
+                "एक वेब एप्लिकेशन के लिए बैकएंड और फ्रंटएंड सुविधाओं का प्रोग्रामिंग",
+                "निरंतर एकीकरण और दैनिक बैकअप्स का कार्यान्वयन।",
+                "रिपोर्टों के साथ बैठकें योजना करना।"
+            ]
+        }
+    ],
+    "FeatureProjects.Title": "मेरे प्रोजेक्ट्स",
+    "FeatureProjects.Label": "विशेष प्रोजेक्ट",
+    "FeatureProjects.Projects": [
+        {
+            "Title": "S&P Capital IQ Pro (Chemical-Insights)",
+            "Description": "डेटा परामर्श के लिए निगरानी एप्लिकेशन। एज़्योर, GIT, AWS, ASP.Net Core API 3.0, C#, Angular 11, और SQL Server 2020 का उपयोग करके रासायनिक पूर्वानुमान डेटा शोधन और दृश्यता के लिए सॉफ्टवेयर विकसित किया गया। डैशबोर्ड के लिए मैट्रिक्स और ग्राफ़ देने के लिए बड़े डेटा के प्रसंस्करण के लिए माइक्रोसर्विसेस को लागू किया।, <span class='underline'>Angular</span> और बैकएंड में <span class='underline'>C#, Dotnet core</span> के साथ बनाया गया। यह <span class='underline'>Rest API और GenAI</span>, <span class='underline'>शेड्यूल्स</span>, <span class='underline'>SQS</span>, AWS, CloudWatch, माइक्रोसर्विसेस आदि के साथ काम करता है।",
+            "imgs": [
+                "assets/images/gisselle/Captura de pantalla 2024-05-19 1009582.png",
+                "assets/images/gisselle/Captura de pantalla 2024-05-19 115514.png",
+                "assets/images/gisselle/Captura de pantalla 2024-05-19 115702.png",
+                "assets/images/gisselle/Captura de pantalla 2024-05-19 115829.png",
+                "assets/images/gisselle/Captura de pantalla 2024-05-19 1009582.png"
+            ],
+            "Technologies": [
+                "C#",
+                "Angular 17",
+                "SASS",
+                "Angular Material",
+                "RxJS",
+                "AWS",
+                "Dotnet core",
+                "SQS",
+                "Rest API",
+                "GenAI",
+                "Schedules",
+                "Microservices",
+                "AWS CloudWatch",
+                "AWS Lambda"
+            ]
+        },
+        {
+            "Title": "सैंपल परीक्षण - अगली पीढ़ी",
+            "Description": "Azure, GIT, Postman, ASP.Net Core API 3.0, C#, Angular 6, और SQL Server 2017 का उपयोग करके एक ऑनलाइन ऑर्डर प्लेसमेंट और सैंपल परीक्षण एप्लिकेशन के लिए माइक्रोसर्विसेस बनाए। ग्राहक सैंपल परीक्षण के लिए बारकोड, शेड्यूलिंग और भुगतान को प्रबंधित करने के लिए एक सिस्टम विकसित किया, <span class='underline'>Angular</span> और <span class='underline'>C#</span> के साथ बनाया गया। इसमें <span class='underline'>chart.js</span> ग्राफ़िक्स लाइब्रेरी लागू की गई है।",
+            "imgs": [
+                "assets/images/proyex2/6d7d8f04-f1f0-40c7-afbb-d2944cdb4d9c.png",
+                "assets/images/proyex2/849c117f-bed9-4406-9c13-c8669f655acc.png",
+                "assets/images/proyex2/62cdf90c-6196-4a6e-b639-8919cda4f749.png",
+                "assets/images/proyex2/8c919208-d6a8-48f4-890d-4817323b6923.png",
+                "assets/images/proyex2/8c919208-d6a8-48f4-890d-4817323b6923 (1).png"
+            ],
+            "Technologies": [
+                "C#",
+                "Angular 2",
+                "SASS",
+                "Angular Material",
+                "RxJS"
+            ]
+        },
+        {
+            "Title": "टैक्स मैनेजमेंट सर्विसेज (KPMG)",
+            "Description": "Tech Cello एक एकीकृत और एकीकृत समाधान के रूप में उपलब्ध है जिसे किसी भी नए SaaS उत्पाद विकास को तेज़ी से बढ़ावा देने के लिए आसानी से प्लग किया जा सकता है। Tech Cello फ्रेमवर्क सेवाएँ प्रदान करता है जैसे कि प्रावधान, सुरक्षा, मीटरिंग, बिलिंग, मॉनिटरिंग सेवाएँ; वर्कफ्लो और मल्टी-टेनेंट डेटाबेस एप्लिकेशन लेयर पर उजागर किए जाते हैं। यह एक एप्लिकेशन डेवलपमेंट प्लेटफ़ॉर्म होगा जो डेवलपर्स को एप्लिकेशन बनाने, परीक्षण और परिनियोजन करने की अनुमति देता है, <span class='underline'>कॉन्फिगर करने योग्य ग्राफ्स</span>, <span class='underline'>कॉन्फिगर करने योग्य अलार्म्स</span>, और <span class='underline'>उपयोगकर्ता प्रबंधन</span>। इसमें पैरामीटर को कॉन्फ़िगर करने के लिए प्रतिक्रियात्मक फ़ॉर्म लॉजिक भी है।",
+            "imgs": [
+                "assets/images/agrourbana/agrourbana1.png",
+                "assets/images/agrourbana/agrourbana2.png",
+                "assets/images/agrourbana/agrourbana3.png",
+                "assets/images/agrourbana/agrourbana4.png",
+                "assets/images/agrourbana/agrourbana5.png"
+            ],
+            "Technologies": [
+                "C#",
+                "Angular",
+                "SASS",
+                "Angular Material",
+                "RxJS"
+            ]
+        }
+    ],
+    "OtherProjects.Title": "और प्रोजेक्ट्स",
+    "OtherProjects.Projects": [
+        {
+            "Title": "जल्द ही आ रहा है पेज",
+            "Description": "एक व्यक्तिगत प्रोजेक्ट जिसमें एक दो-कॉलम विभाजन पृष्ठ शामिल है जिसका उपयोग 'जल्द ही आ रहा है पेज' के रूप में किया जाएगा। इसे पूरी तरह से उत्तरदायी डिज़ाइन के रूप में निर्धारित किया गया है। इसमें ईमेल द्वारा सदस्यता लेने के लिए एक फॉर्म फ़ील्ड है।",
+            "ghLink": "",
+            "demoLink": "",
+            "Technologies": [
+                "C#",
+                "Angular",
+                "SASS",
+                "CSS GRID",
+                "Reactive form"
+            ]
+        }
+    ]
+}

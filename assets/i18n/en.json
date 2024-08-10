@@ -1,0 +1,117 @@
+{
+
+    "Header.Item1" : "About me",
+    "Header.Item2" : "Experience",
+    "Header.Item3" : "Projects",
+    "Header.Item4" : "Contact",
+    "Header.cvBtn" : "Resume",
+    "Header.cvName": "",
+
+    "Banner.Pretitle": "Hello! My name is",
+    "Banner.Title": "Sourabh Joshi",
+    "Banner.Description": "I have <span class='underline'>8 years of experience</span> developing systems, interfaces, bots, and technological solutions to make the web a better place. I focus on writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular</span> and <span class='underline'>C#</span>, applying good practices and development standards.",
+    "Banner.ActionBtn": "Get in touch",
+
+    "AboutMe.Title": "About me",
+    "AboutMe.Paragraphs": [
+        "In <span class='underline'>8 years of experience</span> I've covered many roles: <span class='underline'>System Analyst</span>, <span class='underline'>backend developer</span>, <span class='underline'>frontend developer</span>, and <span class='underline'>technical leader</span>. I love contributing my knowledge to create new things that help solve problems.",
+        "My capabilities also include implementing improvements in systems, optimizing sites, standardizing patterns, and suggesting and executing ideas that add value to the project I'm working on.",
+        "I also program things for my personal use, whether as a hobby or for utility.",
+        "Some of the technologies that I have trained and worked on include (but are not limited to):"
+    ],
+
+
+    "Experience.Title": "Experience",
+    "Experience.Jobs": [
+        
+        {
+            "Tab": "S&P Global",
+            "Title": "Fullstack developer",
+            "Date": "May 2020",
+            "Description": [
+                "Technical decision leader",
+                "Technical talent recruitment for the company",
+                "Department of Technology team leader",
+                "Creation and maintenance of an Chemical Assets data Analitics tool",
+                "Programming of backend and frontend features for a web application",
+                "Implementation of continuous integration and daily backups.",
+                "Planning meetings with reports."
+            ]
+      }
+    ],
+
+    "FeatureProjects.Title": "My projects",
+    "FeatureProjects.Label": "Featured Project",
+    "FeatureProjects.Projects": [{
+        "Title": "S&P Capital IQ Pro (Chemical-Insights)",
+        "Description": "Monitoring application for data consultation. Developed software for chemical forecast data refinement and visualization using Azure, GIT, AWS, ASP.Net Core API 3.0, C#, Angular 11, and SQL Server 2020. Implemented microservices for processing big data and delivering matrices and graphs to dashboards., made with <span class='underline'>Angular</span> and backend in <span class='underline'>C#, Dotnet core</span>. It works with <span class='underline'>Rest API and GenAI</span>, <span class='underline'>schedules</span>, <span class='underline'>SQS</span>, integrations with AWS, CloudWatch, Microservices etc.",
+        "imgs": [
+        "assets/images/gisselle/Captura de pantalla 2024-05-19 1009582.png",
+        "assets/images/gisselle/Captura de pantalla 2024-05-19 115514.png",
+        "assets/images/gisselle/Captura de pantalla 2024-05-19 115702.png",
+        "assets/images/gisselle/Captura de pantalla 2024-05-19 115829.png",
+        "assets/images/gisselle/Captura de pantalla 2024-05-19 1009582.png"
+        ],
+        "Technologies": ["C#", "Angular 17", "SASS", "Angular Material", "RxJS", "AWS","Dotnet core","SQS","Rest API","GenAI","Schedules","Microservices","AWS CloudWatch","AWS Lambda"]
+        },
+        
+        {
+          "Title": "Sample Testing - Next Generation",
+          "Description": "Created microservices for an online order placement and sample testing application using Azure, GIT, Postman, ASP.Net Core API 3.0, C#, Angular 6, and SQL Server 2017. Developed a system to manage barcodes, scheduling, and payments for customer sample testing, made with <span class='underline'>Angular</span> and <span class='underline'>C#</span>. It applies the <span class='underline'>chart.js</span> graphics library",
+          "imgs": [
+              "assets/images/proyex2/6d7d8f04-f1f0-40c7-afbb-d2944cdb4d9c.png",
+              "assets/images/proyex2/849c117f-bed9-4406-9c13-c8669f655acc.png",
+              "assets/images/proyex2/62cdf90c-6196-4a6e-b639-8919cda4f749.png",
+              "assets/images/proyex2/8c919208-d6a8-48f4-890d-4817323b6923.png",
+              "assets/images/proyex2/8c919208-d6a8-48f4-890d-4817323b6923 (1).png"
+          ],
+          "Technologies": ["C#", "Angular 2", "SASS", "Angular Material", "RxJS"]
+        },
+        
+        {
+          "Title": "Tax Management Services(KPMG)",
+          "Description": "Tech Cello is available as one integrated and unified solution that can be easily plugged in to accelerate any new SaaS product development. The Tech Cello framework provides services such as provisioning, security, metering, billing, monitoring services; workflow and multi-tenant database are exposed to the application layer. This will be application development platform that allows developers to create, test and deploy applications, <span class='underline'>configurable graphs</span>, <span class='underline'>configurable alarms</span>, and <span class='underline'>user management</span>. It also has reactive form logic for configuring parameters.",
+          "imgs": [
+              "assets/images/agrourbana/agrourbana1.png",
+              "assets/images/agrourbana/agrourbana2.png",
+              "assets/images/agrourbana/agrourbana3.png",
+              "assets/images/agrourbana/agrourbana4.png",
+              "assets/images/agrourbana/agrourbana5.png"
+          ],
+          "Technologies": ["C#", "Angular", "SASS", "Angular Material", "RxJS"]
+        }
+    ],
+
+
+
+    "OtherProjects.Title": "More projects",
+    "OtherProjects.Projects": [
+        {
+            "Title": "Coming soon page",
+            "Description": "Personal project of a two-column split page to be used as a 'Coming soon page'. Scheduled to be a fully responsive design. It has a form field to subscribe by email.",
+            "ghLink": "",
+            "demoLink": "",
+            "Technologies": ["C#","Angular", "SASS", "CSS GRID", "Reactive form"]
+        },
+        {
+            "Title": "Four card feature section",
+            "Description": "A single page that has a minimal design, listing four features on four cards. Input animations are done with angular animations.",
+            "ghLink": "",
+            "demoLink": "",
+            "Technologies": ["Angular", "SASS", "CSS GRID"]
+        },
+        {
+            "Title": "Profile card",
+            "Description": "Simple one-page design that features a profile letter with basic information about a person.",
+            "ghLink": "",
+            "demoLink": "https://thecodersourabh.github.io/sourabh-portfolio/en",
+            "Technologies": ["Angular", "SASS", "GIT"]
+        }
+    ],
+    "Contact.Pretitle": "What’s Next",
+    "Contact.Title": "Get in touch!",
+    "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
+    "Contact.Btn": "Say Hello"
+
+
+}
