@@ -115,5 +115,22 @@
                 "Reactive form"
             ]
         }
-    ]
+    ],
+    "Contact.Pretitle": "What’s Next",
+    "Contact.Title": "Get in touch!",
+    "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
+    "Contact.Btn": "Say Hello",
+    "AboutUs": {
+        "Name": "Sourabh Joshi",
+        "Email": "meet2sourabh@gmail.com",
+        "Location": "Bangalore, India",
+        "Phone": "+91 946 860 9053",
+        "Github": "https://github.com/thecodersourabh",
+        "LinkedIn": "https://www.linkedin.com/in/sourabh-joshi-460b1368/",
+        "Twitter": "https://twitter.com/thecodersourabh",
+        "Whatsapp": "https://api.whatsapp.com/send?phone=+919468609053",
+        "Instagram": "https://www.instagram.com/thecodersourabh/",
+        "Facebook": "https://www.facebook.com/sourabh.thakur.5",
+        "Visit": "https://thecodersourabh.github.io/sourabh-portfolio/en"
+    }
 }
