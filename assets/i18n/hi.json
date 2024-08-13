@@ -16,6 +16,7 @@
         "मैं अपने व्यक्तिगत उपयोग के लिए भी चीज़ें प्रोग्राम करता हूँ, चाहे वह शौक के रूप में हो या उपयोगिता के लिए।",
         "कुछ तकनीकें जिन पर मैंने प्रशिक्षण और काम किया है, उनमें शामिल हैं (लेकिन इनमें सीमित नहीं हैं):"
     ],
+    "AboutMe.Technologies": ["C#","Angular 17","SASS","Python","RxJS","AWS","Dotnet core","SQS","Rest API","GenAI","Schedules","Microservices","AWS CloudWatch","AWS Lambda"],
     "Experience.Title": "अनुभव",
     "Experience.Jobs": [
         {
