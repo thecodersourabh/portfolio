@@ -7,6 +7,7 @@
     "Header.cvName": "",
     "Banner.Pretitle": "Hello! My name is",
     "Banner.Title": "Sourabh Joshi",
+    "Banner.Subtitle": "Software Developer",
     "Banner.Description": "I have <span class='underline'>8 years of experience</span> developing systems, interfaces, bots, and technological solutions to make the web a better place. I focus on writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular</span> and <span class='underline'>C#</span>, applying good practices and development standards.",
     "Banner.ActionBtn": "Get in touch",
     "AboutMe.Title": "About me",
